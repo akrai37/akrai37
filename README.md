@@ -23,8 +23,8 @@
 ---
 
 ### 📫 Connect with Me
-- Portfolio: [akrai37.github.io/swe-ankush-rai](https://akrai37.github.io/swe-ankush-rai)  
-- LinkedIn: [linkedin.com/in/ankush-rai-37](https://www.linkedin.com/in/ankush-rai-37)  
+- Portfolio: [akrai37.github.io/swe-ankush-rai](https://akrai37.github.io/swe-ankush-rai-portfolio-p1/#)  
+- LinkedIn: [linkedin.com/in/ankush-rai-37](https://www.linkedin.com/in/ankush-rai-599064140/)  
 - Email: arai4@scu.edu  
 
 ---
