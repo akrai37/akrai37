@@ -1,7 +1,7 @@
 # Hi there 👋 I am Ankush Rai  
 
 🎓 Graduate Student in Computer Science & Engineering @ Santa Clara University  
-💻 Software Engineer with 4+ years of experience in backend & full-stack development  
+💻 Software Engineer with 4+ years of experience in backend, full-stack and generative AI Engineering.
 🚀 Passionate about AI/ML, distributed systems, and building scalable web applications  
 
 ---
