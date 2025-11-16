@@ -16,7 +16,7 @@
 
 ### **Frameworks**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
@@ -30,6 +30,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+### **AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?logo=openai&logoColor=white)
 
 ---
 
@@ -71,9 +79,9 @@
 ---
 
 ### **☁️ Cloudflare AI Chat Memory System**
-- Chat memory system using **Workers AI + KV + Llama 3.1**  
-- Lightweight multi-agent orchestration at the edge  
-- Fast and cost-efficient vector memory storage  
+- Chat memory using **Workers AI + KV + Llama 3.1**  
+- Lightweight edge orchestration  
+- Fast, cost-efficient vector memory storage  
 
 🔗 Repo: *Add your link*
 
@@ -87,4 +95,5 @@
 ---
 
 ## 📈 GitHub Stats
-![Ankush's GitHub stats](https://github-readme-stats.vercel.app)
+![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrai37&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrai37&layout=compact&theme=radical)
